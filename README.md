@@ -1,3 +1,3 @@
-# download-stream
+# Unstreamify
 
-Download a readable stream into a buffer.
+Write a readable stream into a buffer.
