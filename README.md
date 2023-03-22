@@ -1,6 +1,6 @@
 # Unstreamify
 
-Convert a readable stream into a buffer.
+Convert readable streams into buffers.
 
 
 ## Installation
