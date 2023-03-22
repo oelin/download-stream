@@ -1,3 +1,3 @@
 # Unstreamify
 
-Write a readable stream into a buffer.
+Convert a readable stream into a buffer.
