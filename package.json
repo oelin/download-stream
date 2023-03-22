@@ -1,7 +1,7 @@
 {
   "name": "unstreamify",
   "version": "1.0.2",
-  "description": "Convert readable streams to buffers.",
+  "description": "Convert readable streams into buffers.",
   "type": "module",
   "main": "index.js",
   "repository": {
